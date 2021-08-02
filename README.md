@@ -1,6 +1,7 @@
 # Data-Mining-CS-685
 
 Scripts to Run Assignments:
+
 assign1.sh : Runs entire Assignment-1 in order 
 
 assign_2.sh : Runs entire Assignment- in order 
